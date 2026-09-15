@@ -2,6 +2,10 @@
 
 A small Java project to demonstrate Git, GitHub, Maven, and JFrog Artifactory.
 
+## Contributers
+
+- Aaron
+
 ## Build and test
 
 ```bash
