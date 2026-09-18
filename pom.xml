@@ -87,4 +87,17 @@
       </plugins>
     </pluginManagement>
   </build>
+    <distributionManagement>
+    <repository>
+      <id>central</id>
+      <name>JFE1 Maven development releases</name>
+      <url>https://eprotegepro50.jfrog.io/artifactory/jfe1-maven-dev-local</url>
+    </repository>
+
+    <snapshotRepository>
+      <id>snapshots</id>
+      <name>JFE1 Maven development snapshots</name>
+      <url>https://eprotegepro50.jfrog.io/artifactory/jfe1-maven-dev-local</url>
+    </snapshotRepository>
+  </distributionManagement>
 </project>
